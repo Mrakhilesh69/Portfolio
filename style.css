@@ -397,6 +397,10 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
+.projectlink{
+	display: flex;
+	color:white;
+}
 /* End Projects section */
 
 /* About Section */
